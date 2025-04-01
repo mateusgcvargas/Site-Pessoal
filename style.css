@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(233, 217, 204);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#navbar{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+    font-size:large;
+}
+
+.padding1{
+    width: 25%;
+    height: 100px;
+    color: rgb(39, 34, 34);
+}
+
+.padding2{
+    width: 25%;
+    height: 100px;
+    color: rgb(39, 34, 34);
+}
+
+.esq{
+    width: 25%;
+    height: 100px;
+    color: rgb(39, 34, 34);
+}
+
+.centro{
+    width: 50%;
+    height: 100px;
+    color: rgb(39, 34, 34);
+}
+
+.dir{
+    width: 25%;
+    height: 100px;
+    color: rgb(39, 34, 34);
+}
+
+.link{
+    width: 50%;
+}
+
+#box{
+    margin: auto;
+    width: 60%;
+    height: 420px;
+    border: 3px solid rgb(29, 26, 24);
+    padding: 10px;
+
+}
+
+#conteudo{
+    text-align: center;
+    padding: 20px;
+    display: flex;
+
+}
+
+.esq2{
+    width: 50%;
+    height: 100px;
+    color: rgb(39, 34, 34);
+
+}
+
+.dir2{
+    width: 50%;
+    height: 100px;
+    color: rgb(39, 34, 34);
+
+}
+
+.prgf{
+    padding: 10px;
+}
+
+.foto{
+    margin-left: 180px;
+    margin-bottom: 80px;
+    width:380px;
+    height:390px
+}
+
+#assinatura{
+    text-align: center;
+    margin: auto;
+    padding: 80px;
+}
+
+.ass{
+    text-align: center;
+    width: 350px;
+}
